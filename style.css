@@ -1,0 +1,50 @@
+body{
+    background-color:  #ffe4c4;
+    margin: 0;
+}
+header{
+    background-color: #830e0d;
+    padding: 1px;
+}
+h1{
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+.movie-poster-item{
+    color: #34fff5;
+    display: inline;
+
+}
+.page-menu-item{
+    display: inline;
+}
+.page-menu-list{
+    display: inline-block;
+    width: 49%;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.movie-poster-list{
+    display: inline-block;
+    width: 49%;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.button{
+    border: 2px solid  rgb(255, 255, 255);
+}
+h2{
+    text-align: center;
+    color: #800000;
+}
+div{
+    
+}
+.film-card{
+    border-bottom: 50px;
+}
+
+
+
+
